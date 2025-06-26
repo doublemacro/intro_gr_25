@@ -36,6 +36,7 @@ d3 = Dog("Grabby", age=10, owner="Oana", sound="AwwwwOOOOOOooo")
 dog_park = [d1, d2, d3]
 print(dog_park)
 
+d1.bark()
 d1.sniff(d2)
 d1.convince(d2)
 d1.combined_age(d2)

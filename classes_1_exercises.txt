@@ -1,0 +1,31 @@
+
+# ex 1
+Creează o clasă numită TodoList, care contine o proprietate "task_list", unde task_list este o lista de stringuri. Clasa trebuie să permită următoarele operații:
+
+Adăugarea unei sarcini noi (add_task(task))
+Ștergerea unei sarcini după titlu (remove_task(task))
+Afișarea tuturor sarcinilor (show_tasks())
+
+Exemplu:
+
+todo = TodoList()
+todo.add_task("Cumpără pâine")
+todo.add_task("Scrie tema la info")
+todo.show_tasks()
+
+# ex 2
+Creează o clasă numită Student, care are proprietatea "name" si "grade_list", unde grade_list este o lista de numere, care sunt notele lor. Clasa trebuie să includă următoarele funcționalități:
+
+Adăugarea unei note (add_grade(grade))
+Calcularea mediei notelor (average())
+Afișarea tuturor notelor (show_grades())
+Afișarea numelui studentului și a mediei curente (summary())
+
+Exemplu:
+
+student = Student("Andrei Popescu")
+student.add_grade(9)
+student.add_grade(10)
+student.add_grade(8)
+student.show_grades()
+student.summary()
