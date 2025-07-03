@@ -1,3 +1,9 @@
+# https://leetcode.com/problemset/
+# https://www.reddit.com/r/Python/comments/1knw7z/python_interview_questions/
+# https://www.github.com/search/
+# https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/
+
+
 # Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 # You may assume that each input would have exactly one solution, and you may not use the same element twice.
 # You can return the answer in any order.
@@ -108,9 +114,5 @@ print(v2)
 
 
 
-# https://leetcode.com/problemset/
-# https://www.reddit.com/r/Python/comments/1knw7z/python_interview_questions/
-# https://www.github.com/search/
-# https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/
 
 
